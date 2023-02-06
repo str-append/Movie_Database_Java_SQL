@@ -2,7 +2,9 @@
 
 This is the project for DBMS and Java. In this I used mySQL for database and java servlet for making connection and displaying the content from the database.
 
-Movie Management System is a web application created for the purpose of viewing basic information about movies such as casting, trailers, ratings etc. For the popular movies available, it shows whether the movie is available in theatre or online platforms. In addition to these,it also suggests the similar movies that might be interested by the user. We Manage various databases according to different genre which leads users to have different choices according to users mood. There is no need to use registers as all the data stored in a Persistent Database. Our searchable database includes Popular movies, TV and entertainment programs and cast and crew members.
+Movie Management System is a web application created for the purpose of viewing basic information about movies such as casting, reviews, released date etc. It can filter the the movies based on genre like Action, Romance, Comendy.
+User can request the movie, view reviews and can review a movie which can be accessed by other users.
+This application also provide a admin panel which enables admin to add 
 
 
 ![image](https://user-images.githubusercontent.com/94126385/216889745-2599ed86-70c7-41c3-9dc1-39a6f0d6f9ee.png)
@@ -22,9 +24,4 @@ Admin Page
 
 ![image](https://user-images.githubusercontent.com/94126385/216889974-ff58d270-9f2b-4b1b-a150-1b7a6a7734c0.png)
 
-See all Details
-![image](https://user-images.githubusercontent.com/94126385/216890024-1b715bd3-abd8-42b8-97c9-26cddb2181f9.png)
-
-Show Requests
-![image](https://user-images.githubusercontent.com/94126385/216890056-1548049a-6064-49f3-a396-f1c76f21e661.png)
 
